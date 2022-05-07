@@ -1,0 +1,13 @@
+{
+	"Name": "TeAndre Smith",
+	"Age": 23,
+	"Contact": "08064807641",
+	"Company": "Google",
+	"Address": {
+		"Street": "Example",
+		"City": "Example City",
+		"State": "Example State",
+		"Country": "USA",
+		"ZipCode": 11111
+	}
+}
